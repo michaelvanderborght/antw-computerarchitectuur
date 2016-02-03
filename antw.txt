@@ -1,4 +1,6 @@
 Welke belangrijke tradeoffs zijn er gemaakt?
+static validation in front end ipv business layer (efficientie <-> centralisatie van validatie)
+accounting app + batch service ipv eigen accounting (zelf geen accounting implementeren <-> centralisatie van data)
 
 Waar zit het grootste riciso in deze architectuur?
 
