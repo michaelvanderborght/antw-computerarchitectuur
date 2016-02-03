@@ -1,0 +1,11 @@
+Welke belangrijke tradeoffs zijn er gemaakt?
+
+Waar zit het grootste riciso in deze architectuur?
+
+Met welke crosscutting concerns zijn er rekening gehouden?
+data validation
+business rules
+synchronisatie tussen eigen db en account db
+
+Hoe zou je logging in deze applicatie implementeren?
+logging in account app en deze opvragen
